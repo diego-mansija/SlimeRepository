@@ -1,2 +1,2 @@
-# SlimeRepository
+# SlimeStory
  
