@@ -1,0 +1,2 @@
+//
+canshoot = true;

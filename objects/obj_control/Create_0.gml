@@ -1,0 +1,3 @@
+//
+inmenu = false;
+menuback = noone;
